@@ -11,4 +11,20 @@ public class TodoEntry {
     public TodoEntry(String name) {
         this.name = name;
     }
+
+    public LocalDateTime getDue() {
+        return due;
+    }
+
+    public void setDue(LocalDateTime due) {
+        this.due = due;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }
