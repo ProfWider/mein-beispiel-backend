@@ -1,5 +1,5 @@
 # mein-beispiel-backend
 
-Team Mitglieder: C, D
+Team Mitglieder: E, F
 
 Wir bauen eine Todo Liste, die Todo Eintraege speichert.
